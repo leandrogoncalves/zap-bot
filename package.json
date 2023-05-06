@@ -12,7 +12,7 @@
     "whatsapp-api",
     "node.js"
   ],
-  "author": "Pedro",
+  "author": "leandro Gonçalves <contato.leandrogoncalves@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.20.0",
